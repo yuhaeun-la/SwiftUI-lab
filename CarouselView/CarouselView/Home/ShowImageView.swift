@@ -16,7 +16,7 @@ struct ShowImageView: View {
             ScrollView {
                 VStack(alignment: .leading, spacing: 10){
                     
-                    Text("My Gallery").bold()
+                    Text("Curation").bold()
                         .font(.largeTitle)
                     
                     Text("江風明月").bold()
